@@ -1,0 +1,6 @@
+framework module AZNetworking {
+  umbrella header "AZNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
